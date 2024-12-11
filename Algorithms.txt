@@ -1,0 +1,6 @@
+- Ductch National Flag
+- Kadane
+- Moore
+- Rotating Arrays
+- 2 pointers - longest subarray with sum k - moving zeroes to end
+- permutation logic - going from backward, swapping, reversing, check in code
