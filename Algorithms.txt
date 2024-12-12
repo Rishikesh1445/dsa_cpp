@@ -4,3 +4,4 @@
 - Rotating Arrays
 - 2 pointers - longest subarray with sum k - moving zeroes to end
 - permutation logic - going from backward, swapping, reversing, check in code
+- use maps for hashing , use sets for finding. usets - O(1)
