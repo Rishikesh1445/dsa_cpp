@@ -4,4 +4,12 @@
 - Rotating Arrays
 - 2 pointers - longest subarray with sum k - moving zeroes to end
 - permutation logic - going from backward, swapping, reversing, check in code
-- use maps for hashing , use sets for finding. usets - O(1)
+2 sum - sort the array, 2 pointers on either end of array
+3 sum - hashing method; 
+
+
+Mini Concepts:
+- for hashing - maps always
+- for uniqueness. finding elements - set(O(logn)) - uset(O(i))
+- all this 2sum, 3sum, 4 sum -> sorting gives optimal solution
+- XOR of similar numbers are zeroe
