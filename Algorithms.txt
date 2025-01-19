@@ -13,7 +13,8 @@ Mini Concepts:
 - for hashing - maps always
 - for uniqueness. finding elements - set(O(logn)) - uset(O(i))
 - all this 2sum, 3sum, 4 sum -> sorting gives optimal solution
-- XOR of similar numbers are zeroe
+- XOR of similar numbers are zeroes.
+- min(max) and max(min) are both binary search concepts (find range of final answer, do bs on that by checking no of count in seperate loop)
 
 Remember:
 - for loop checks condition for first iteration also;
